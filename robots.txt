@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://red010b37.github.io/sitemap.xml 
