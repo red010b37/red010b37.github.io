@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Fugitve]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2013-10-06T20:53:39-07:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Untangle - Processing to Dart Port]]></title>
+    <link href="http://yoursite.com/blog/2013/10/01/untangle-processing-to-dart-port/"/>
+    <updated>2013-10-01T19:03:00-07:00</updated>
+    <id>http://yoursite.com/blog/2013/10/01/untangle-processing-to-dart-port</id>
+    <content type="html"><![CDATA[<h3>A Processing to Dart experiment</h3>
+
+<p>For those of you who know me you will know that my usual tools of choice for creative coding is <a href="http://processing.org">Processing</a> or <a href="http://www.openframeworks.cc/">OpenFrameworks</a>. But recently I have been really getting into <a href="https://www.dartlang.org/">Google&rsquo;s Dart</a> to the point where it has completely replaced my frontend development workflow.
+As I have gotten deeper with dart it has dawned on me that It might be possible to use it as an online creative coding platform.</p>
+
+<h3>Why would I do this?</h3>
+
+<p>Currently the dart VM is running more than twice as fast as the JS engine V8 that is included in chrome. Plus the dart can cross compile to JS that runs faster than hand written code. Couple that with the fact I like dart all I can see is win win. :)</p>
+
+<h3>Port</h3>
+
+<p>So the first goal I have set for myself to port the Processing application &ldquo;Untangle&rdquo; that creates this type of imagery:</p>
+
+<p><img src="images/work/untangle.png"></p>
+
+<p>My hope is that I will be able to generate something similar with Dart and WebGL</p>
+]]></content>
+  </entry>
+  
+</feed>
